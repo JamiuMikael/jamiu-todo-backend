@@ -2,7 +2,7 @@
   "name": "mad-todo-backend",
   "version": "1.0.0",
   "engines": {
-    "node": "16.13.0"
+    "node": "16.13.1"
   },
   "description": "A backend service for a todo mobile app",
   "main": "index.js",
